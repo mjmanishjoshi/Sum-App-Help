@@ -66,7 +66,8 @@ override any constraints that are defined in Transportation Manager:
 2. Specify the locations of the constraint files the optimizer should use, in ConstraintsOverride.txt.
 
 {: .note }
-Constraint files override those defined in Transportation Manager. The ConstraintOverride.txt file overrides any other constraints or constraint files.
+> * Constraint files override those defined in Transportation Manager.
+> * The **ConstraintOverride.txt** file overrides any other constraints or constraint files.
 
 #### Specify constraint files in the Transportation Planner user interface
 1. Select the Setup page.
